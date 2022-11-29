@@ -6,7 +6,9 @@
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deoclecianoFilho&show_icons=true&color=00bfbf&bg_color=0d1117&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoclecianoFilho&layout=compact&langs_color=00bfbf&bg_color=0d1117"/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deoclecianoFilho&show_icons=true&color=00bfbf&bg_color=0d1117&include_all_commits=true&count_private=true"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoclecianoFilho&layout=compact&langs_color=00bfbf&bg_color=0d1117"/>
 </div>
 
 <div align="center" valign="top"><br>
@@ -43,7 +45,7 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: DeoclecianoCS.</p>
+  <p>Feito com :heart: Deocleciano<span style="color:red">C</span>S.</p>
   
 </div>
 
